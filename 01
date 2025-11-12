@@ -1,7 +1,6 @@
 #-------------Developer: Ömür Eymen Öztürk---------------------------------
 #-------------Developer Social Media Accounts-------------------------------
 #GitHUB: https://github.com/EymenOzt
-#Mail:eymenozt01@gmail.com
 #----------------------------------------------------------------------------
 import tkinter as tk
 from tkinter import messagebox
